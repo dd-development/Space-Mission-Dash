@@ -3,6 +3,9 @@ https://space-mission-dash.streamlit.app/
 
 ## Design and Usage
 
+## Testing Functions
+All of the functions that are to be tested programmatically are in the data.py file.
+
 ### Visuals Explanations
 1. The first visual is a bar chart of the percentage success rate of each company, sorted from left to right in order of the companies with the most missions first. This is to demonstrate how successful a company is while also prioritizing companies with higher levels of activity.
 2. The second visual is a line chart that plots both the amount of missions per year and the success rate for that year over the range of the earliest year in the data set to the latest. This is to show how the volume of missions and their overall success rate has changed as technology and strategies have evolved over time.
