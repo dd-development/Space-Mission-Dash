@@ -3,7 +3,7 @@ https://space-mission-dash.streamlit.app/
 
 ## Design and Usage
 
-## Testing Functions
+### Testing Functions
 All of the functions that are to be tested programmatically are in the data.py file.
 
 ### Visuals Explanations
