@@ -208,6 +208,8 @@ try:
 
     st.plotly_chart(figC, use_container_width=True)
 
+    st.divider()
+
     # FILTER AND DATA TABLE SECTION
     # ---------------------------------------------------------------
     st.markdown("## :red[*Table View*]", text_alignment="center")
